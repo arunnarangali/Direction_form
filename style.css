@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to right,#493272, rgb(0, 213, 255))
+    background-image: linear-gradient(to right,rgb(0, 213, 255),#493272)
 }
 .card{
     width: 500px;
@@ -7,7 +7,7 @@ body{
     margin-right: auto;
     margin-top: 100px;
     align-items: center;
-    background-color: antiquewhite;
+    background-color:#14A9D9;
 }
 .card1{
     margin-top: 50px;
