@@ -42,10 +42,22 @@ nav{
     .card{
         width: 70%;
     }  
+    .background img 
+    {
+        /* width: 1024px; */
+        height: 700px;
+
+    }
 }
 @media (max-width:400px){
 
     .card{
         width: 100%;
     } 
+    .background img 
+    {
+        /* width: 1024px; */
+        height: 668px;
+
+    }
 }
