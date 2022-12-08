@@ -51,9 +51,7 @@ nav{
 }
 @media (max-width:400px){
 
-    .card{
-        width: 50%;
-    } 
+  
     .background img 
     {
         /* width: 1024px; */
