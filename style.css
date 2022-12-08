@@ -35,3 +35,17 @@ nav{
     background-color: #493272;
     
 }
+
+
+@media (max-width:768px){
+
+    .card{
+        width: 70%;
+    }  
+}
+@media (max-width:400px){
+
+    .card{
+        width: 100%;
+    } 
+}
